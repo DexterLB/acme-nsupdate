@@ -29,4 +29,4 @@ fi
 
 echo "${action}" | nsupdate -k "${key_file}"
 
-sleep 2
+sleep 10
